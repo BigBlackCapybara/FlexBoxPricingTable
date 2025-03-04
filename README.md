@@ -1,2 +1,2 @@
 # FlexBoxPricingTable
-learning flexbox and craeting custom page with internal css
+learning flexbox and creating custom page with internal css
